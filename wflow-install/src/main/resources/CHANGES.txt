@@ -1,0 +1,14 @@
+v5 COMMUNITY
+============
+For an introduction to v5, please refer to http://blog.joget.org/2015/01/whats-new-in-joget-workflow-v5.html
+
+CHANGES IN 5.0-BETA5
+====================
+1.  New App Center
+2.  New Admin Sidebar
+3.  New Web-Based Process Builder
+4.  Enhanced App Plugins
+      a) Delete Form Data Datalist Action
+      b) Multiple File Upload Support
+5.  Performance and Scalability Enhancements
+6.  Framework Upgrade - Latest Spring 4 and Hibernate 4 Upgrades
